@@ -1,4 +1,4 @@
-<h3 align="left">Сontact me:</h3>
+<h3 align="left">Сontacts:</h3>
 <p align="left">
 <a href="https://t.me/gorshmeister" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94898232/202649241-d6a66781-2272-48e2-a97f-91b16dd943a5.png" alt="gorshmeister" height="30" width="30" /></a>
 </p>
