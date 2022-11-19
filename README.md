@@ -1,5 +1,5 @@
 [<img src="https://user-images.githubusercontent.com/94898232/202850599-2af525d9-8759-462f-95d2-0314b2b5782d.png" width="400">](https://github.com/gorshmeister/gorshmeister/blob/main/Coursera%20ETZNT6HYHRGW.pdf)
-[<img src="https://user-images.githubusercontent.com/94898232/202858992-f5398db3-7f33-440b-9edd-b70617f85690.png" width="400">](https://github.com/gorshmeister/gorshmeister/blob/main/Coursera%20ETZNT6HYHRGW.pdf)
+[<img src="https://user-images.githubusercontent.com/94898232/202858992-f5398db3-7f33-440b-9edd-b70617f85690.png" width="400">](https://github.com/gorshmeister/gorshmeister/blob/main/Coursera%20B5F88N8N2FCQ.pdf)
 
 <h3 align="left">Сontacts:</h3>
 <p align="left">
